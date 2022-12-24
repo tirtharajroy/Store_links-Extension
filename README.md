@@ -1,4 +1,4 @@
-# Store links Extension
+# Store Links Extension
 
 Quick start:
 
